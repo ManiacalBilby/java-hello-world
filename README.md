@@ -14,3 +14,4 @@ http://www.oracle.com/technetwork/topics/newtojava/overview/index.html
 https://spring.io/guides/gs/rest-service/
 
 In order to run this I used "brew install Maven" and followed the instructions in the above Spring tutorial. 
+You should be able to run this code with Maven installed with the command mvn spring-boot:run ran within the main app folder.
